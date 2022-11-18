@@ -1,0 +1,7 @@
+
+[ {"id": "post1", "name": "clean", "description": "clean house", "status": "complete", "viewed": true },  
+{"id": "post2", "name": "shop", "description": "shop for groceries", "status": "in progress", "viewed": true },
+{"id": "post3", "name": "doctor", "description": "make doctors appointment", "status": "archived", "viewed": false },
+{"id": "post4", "name": "dinner", "description": "make dinner", "status": "on hold", "viewed": true },
+{"id": "post5", "name": "friends", "description": "have friends over for dinner", "status": "new", "viewed": false }
+]
